@@ -1,0 +1,13 @@
+challonge:
+  username: 'username'
+  api_key: 'api_key'
+  tournament_id: '69gjb1kz'
+
+discord:
+  client_id: 'client_id'
+  client_secret: 'do_not_commit_secrets_to_vcs'
+
+tournament:
+  stream_matches_per_round: 2
+  wb_stream_lobby_code: '123123'
+  lb_stream_lobby_code: '456456'
