@@ -1,0 +1,27 @@
+The purpose of this thread is to keep all match setup (pinging your opponents, picking a spot to play, etc.) in here.
+
+This keeps the main channel clear for general tournament chatter, announcements, and any important questions that come up along the way.
+
+Quick reminder, but by default ALL off-stream games should be played in the Park `USA West Coast #41`.
+==========
+***BRACKET***
+TBD
+==========
+***STREAM / LOBBY INFO***
+`Main Stream (Winners' Bracket + Finals)`
+Stream: https://twitch.tv/JordainJ
+Lobby Code: `TBD`
+
+`Losers' Bracket Stream`
+Stream: https://twitch.tv/CatboyGG
+Lobby Code: `TBD`
+
+`Off-Stream Matches`
+Park: `USA West Coast #41`
+
+`Post Tournament Friendlies`
+Park: `USA West Coast #42`
+==========
+@Strive Showdown Please use this channel to track down your opponents for games. 
+
+I'll ping folks in "lb-stream-coordination" or "wb-stream-coordination" if you're going to play on stream, otherwise you're good to play off stream when I give the round-start announcement

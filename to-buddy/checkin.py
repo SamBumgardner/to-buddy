@@ -15,8 +15,9 @@ def write_checkin(tournament_id, player_info = dict()):
     # Add players to checkin from challonge
     for player in participants:
         player_info_key = player["name"]
-        
-        if (player_info_key not in player_info.keys()):
+
+        if (player_info_key not in player_info['players'].keys()):
+            print("Player {} not found, adding them to checkin file...".format(player_info_key))
             player_info['players'][player_info_key] \
                 = {'username': player['username'], 'display_name': player['display_name'],
                 'checked_in': 0}

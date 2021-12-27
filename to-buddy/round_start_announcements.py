@@ -9,15 +9,15 @@ Please join the Winner's Bracket stream room and wait for your turn to play the 
 `{2}`
 
 Remember:
-All games use standard settings, play **best 2 out of 3 games** for each match.
+All games use standard settings, play **best 2 out of 3 games** for each match until reaching top 4.
 
 For the rest of us - 
 All other players in winners' side can play their round {0} matches off-stream.
 
-Losers' Bracket games should play as soon as they're ready UNTIL reaching top 8. Games can happen off-stream or in Catboy's LB stream lobby (`{3}`), see the pinned messages for details on how you can get on-stream.
+Losers' Bracket games should play as soon as they're ready UNTIL reaching top 8. Games can happen off-stream or in Catboy's LB stream lobby (`{3}`), see the tournament-rules thread for details on how you can get on-stream.  
 
-Non-streamed matches can be played in parks or rooms, players' choice. 
-"""
+Non-streamed matches should be played in the park `US West Coast #41`. 
+""" #
 def _get_current_round():
     return input('Please enter the current round #: ')
 
